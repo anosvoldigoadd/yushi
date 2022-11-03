@@ -39,57 +39,57 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285172446692', 'leviXd', true],
-['6282131369002', 'victor bot', true]
+['628232154376', 'AbiUhuuy', true],
+['6283812737630', 'ᴀɴᴏꜱʙᴏᴛ', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282131369002'
-global.nomorown = '6285172446692'
-global.nomorown1 = '6285172446692'
-global.nomorown2 = '6282131369002'
+global.nomorbot = '6283812737630'
+global.nomorown = '6288232154376'
+global.nomorown1 = '6288232154376'
+global.nomorown2 = '6283812737630'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By leviXd'
-global.namebot = 'victor bot'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 victor md'
-global.media = 'https://telegra.ph/file/b69e2e87cdbaebb7751ce.jpg'
+global.author = 'Created By ᴀɴᴏꜱʙᴏᴛ'
+global.namebot = 'ᴀɴᴏꜱʙᴏᴛ'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 ᴀɴᴏꜱʙᴏᴛ'
+global.media = 'https://telegra.ph/file/c7b8e2f0e01850efb5db7.jpg'
 global.watermark = wm
-global.wm2 = 'victor bot '
+global.wm2 = 'ᴀɴᴏꜱʙᴏᴛ'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `victor 𝐗 leviXd`
-global.stickpack = 'victor 𝐗 leviXd'
-global.stickauth = `© Victor MD`
+global.titlebot = `AbiUhuuy 𝐗 ᴀɴᴏꜱʙᴏᴛ`
+global.stickpack = 'AbiUhuuy 𝐗 ᴀɴᴏꜱʙᴏᴛ'
+global.stickauth = `© ᴀɴᴏꜱʙᴏᴛ`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'victor bot'
-global.nameown2 = 'leviXd'
+global.nameown1= 'AbiUhuuy'
+global.nameown2 = 'ᴀɴᴏꜱʙᴏᴛ'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
-global.lynk = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
+global.Linkgc = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r'
+global.lynk = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://github.com/victorbot22' //github
-global.sgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1' //group whatsapp
+global.sig = 'https://instagram.com/abityru24'
+global.sgh = 'https://github.com/SkyzooDev' //github
+global.sgc = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
+global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085172446692'
+global.pdana = '088232154376'
 global.povo = '-'
-global.pgopay = '085172446692'
+global.pgopay = '088232154376'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.ppulsa = '088232154376'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 
@@ -304,16 +304,16 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.urlnya = "https://www.instagram.com/abityru24"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813 6128 1833'
+global.phn = '0882 3215 4376'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/c7b8e2f0e01850efb5db7.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/c7b8e2f0e01850efb5db7.jpg'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
